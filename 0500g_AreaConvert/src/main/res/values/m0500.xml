@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0500_t001">坪數</string>
+<!--    <string name="area1">平方公尺</string>-->
+    <string name="areaTo1">甲:</string>
+    <string name="areaButton">執行坪數換算</string>
+    <string name="areaTo3">公畝</string>
+    <string name="areaTo2">平方公尺</string>
+</resources>

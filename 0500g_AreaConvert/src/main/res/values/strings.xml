@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">5-0g坪數換算</string>
+    <string name="zero">0</string>
+<!--    <string name="name">02筱昀</string>-->
+    <string name="name_禎">小禎</string>
+    <string name="name_3">1號 曾郁禎</string>
+    <string name="hint02">請輸入坪數</string>
+    <!--    <string name="enter">執行坪數換算</string>-->
+<!--    <string name="ib">甲:</string>-->
+<!--    <string name="hint">請輸入坪數</string>-->
+<!--    <string name="area2">公畝</string>-->
+    <!--    <string name="hint">請輸入數字</string>-->
+<!--    <string name="hint">請輸入數字</string>-->
+<!--    <string name="zero">0</string>-->
+</resources>

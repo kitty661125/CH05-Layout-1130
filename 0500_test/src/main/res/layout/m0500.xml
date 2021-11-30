@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="?attr/colorButtonNormal"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="77dp">
+
+        <TextView
+            android:id="@+id/m0500_t001"
+            android:layout_width="117dp"
+            android:layout_height="50dp"
+            android:text="@string/m0500_t001"
+            android:textColor="@color/purple_700"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/m0500_e001"
+            android:layout_width="258dp"
+            android:layout_height="62dp"
+            android:background="@color/white"
+            android:ems="10"
+            android:gravity="end"
+            android:inputType="numberDecimal"
+            android:text="@string/zero"
+            android:textColor="@color/purple_700"
+            android:textSize="24sp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/ic_launcher_1_background"
+        android:text="執行換算"
+        android:textSize="24sp" />
+</LinearLayout>

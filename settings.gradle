@@ -1,0 +1,27 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "CH05-Layout"
+
+
+
+include ':0500d_Converter'
+include ':0500d-Converter01'
+
+include '5.0f_moneyChange_02'
+include '0500g_AreaConvert'
+include ':0501_Marrisug'
+include ':0502_Marrisug_radiobutton'
+include ':0502a_Marrisug_zh'
+
+include ':0503_CheckBox'
+include ':0504_ScrollView'
+include '0505_Auto_Complete_TextInput'
+
+include ':0506_TextViewScrollable'
+include ':ch00-test'
